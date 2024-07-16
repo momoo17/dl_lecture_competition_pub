@@ -1,0 +1,9 @@
+# Jupyter Notebookのチェックポイント
+.ipynb_checkpoints/
+
+# 大きなファイルを無視
+/train.zip
+/valid.zip
+/train/
+/valid/
+/model.pth
